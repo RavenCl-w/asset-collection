@@ -1,5 +1,6 @@
 ### Videos
 [Making Games with Javascript](https://www.youtube.com/watch?v=kayFBMl06q8)
+[Getting Data from Forms](https://www.youtube.com/watch?v=IAmcCrETKIc&ab_channel=RabbiGould)
 
 ### Images
 [Sample Avatars - Picrew.me](https://picrew.me/image_maker/292968)
