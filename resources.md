@@ -1,6 +1,17 @@
 ### Videos
 [Making Games with Javascript](https://www.youtube.com/watch?v=kayFBMl06q8)
 [Getting Data from Forms](https://www.youtube.com/watch?v=IAmcCrETKIc&ab_channel=RabbiGould)
+[How to get data from a form using javaScript](https://www.youtube.com/watch?v=IAmcCrETKIc)
+
+
+
+
+### Webpages
+[A complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+
+
+
 
 ### Images
 [Sample Avatars - Picrew.me](https://picrew.me/image_maker/292968)
